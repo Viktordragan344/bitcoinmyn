@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+laserminer360.me	TRUE	/	FALSE	1999999999	CameFrom	deleted
+laserminer360.me	TRUE	/	FALSE	1999999999	PHPSESSID	mspg3rhf9r36iebkjo3sntstu5
+

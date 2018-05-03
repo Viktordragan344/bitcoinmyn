@@ -1,0 +1,33 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 01 May 2018 14:00:43 at http://laserminer360.me/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://laserminer360.me/ -O1 "C:\My Web Sites\Laserminer Copy" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:09:08	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js (from laserminer360.me/)
+14:09:12	Warning: 	Retry after error -2 (Receive Time Out) at link laserminer360.me/?a=cust&page=wheretobuy (from laserminer360.me/)
+14:09:29	Warning: 	Retry after error -2 (Receive Time Out) at link laserminer360.me/?a=support (from laserminer360.me/)
+14:09:29	Warning: 	Retry after error -2 (Receive Time Out) at link laserminer360.me/styles/images/daily-ic2.png (from laserminer360.me/)
+14:09:29	Error: 	"Not Found" (404) at link laserminer360.me/fonts/glyphicons-halflings-regular.eot (from laserminer360.me/styles/bootstrap.min.css)
+14:09:29	Error: 	"Not Found" (404) at link laserminer360.me/fonts/glyphicons-halflings-regular.eot? (from laserminer360.me/styles/bootstrap.min.css)
+14:09:29	Error: 	"Not Found" (404) at link laserminer360.me/fonts/glyphicons-halflings-regular.woff (from laserminer360.me/styles/bootstrap.min.css)
+14:09:29	Error: 	"Not Found" (404) at link laserminer360.me/fonts/glyphicons-halflings-regular.ttf (from laserminer360.me/styles/bootstrap.min.css)
+14:09:29	Error: 	"Not Found" (404) at link laserminer360.me/fonts/glyphicons-halflings-regular.svg (from laserminer360.me/styles/bootstrap.min.css)
+14:09:29	Warning: 	File not parsed, looks like binary: laserminer360.me/styles/fonts/ProximaNova-Semibold.woff2
+14:09:33	Warning: 	File not parsed, looks like binary: laserminer360.me/styles/fonts/ProximaNova-Bold.woff2
+14:09:36	Warning: 	File not parsed, looks like binary: laserminer360.me/styles/fonts/proximanovalight-webfont.woff2
+14:09:36	Warning: 	File not parsed, looks like binary: laserminer360.me/styles/fonts/ProximaNova-Regular.woff2
+14:09:39	Error: 	"Not Found" (404) at link laserminer360.me/styles/images/hd-ic3.png (from laserminer360.me/styles/custom.css)
+14:09:39	Error: 	"Not Found" (404) at link laserminer360.me/styles/images/hd-ic4.png (from laserminer360.me/styles/custom.css)
+14:09:39	Error: 	"Not Found" (404) at link laserminer360.me/styles/images/ctn-ic1.png (from laserminer360.me/styles/custom.css)
+14:09:39	Error: 	"Not Found" (404) at link laserminer360.me/styles/images/ctn-ic2.png (from laserminer360.me/styles/custom.css)
+14:09:39	Error: 	"Not Found" (404) at link laserminer360.me/styles/images/ctn-ic3.png (from laserminer360.me/styles/custom.css)
+14:09:39	Error: 	"Not Found" (404) at link laserminer360.me/styles/images/ctn-ic4.png (from laserminer360.me/styles/custom.css)
+14:09:39	Error: 	"Not Found" (404) at link laserminer360.me/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from connect.facebook.net/en_US/sdk.js)
+14:09:39	Error: 	"Not Found" (404) at link laserminer360.me/^([^:/? (from connect.facebook.net/en_US/sdk.js)
+14:09:39	Error: 	"Not Found" (404) at link laserminer360.me/restserver.php (from connect.facebook.net/en_US/sdk.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 12 seconds : 159 links scanned, 140 files written (5672332 bytes overall) [5410826 bytes received at 9802 bytes/sec], 427180 bytes transferred using HTTP compression in 17 files, ratio 29%
+(14 errors, 8 warnings, 0 messages)
